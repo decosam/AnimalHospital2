@@ -115,7 +115,7 @@ public class ShopActivity extends AppCompatActivity implements View.OnClickListe
                     sumTotal();
                 }
                 break;
-
+                //gity
         }
     }
 
